@@ -1,6 +1,6 @@
 cask "typoflip" do
-  version "1.4.1"
-  sha256 "6e12ae4b574b55ad502002730b65efdc5c394c9b4938d4144223fca7d411c848"
+  version "1.4.2"
+  sha256 "033c5715ae0f5a56d6bfa4c2b1f08e5888ffcd59d5e273806459ce5ebe028d57"
 
   url "https://typoflip.com/download/Typoflip-#{version}.dmg"
   name "Typoflip"
